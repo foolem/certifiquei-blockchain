@@ -1,6 +1,6 @@
-## Verum Digital Etherum API
+## Certifiquei Etherum API
 
-Simple REST API interaction with Verum smart contract
+Simple REST API interaction with Certifiquei smart contract
 Deployed on Vercel
 
 ### Usage
@@ -8,7 +8,7 @@ Deployed on Vercel
 - Production URL https://verum-digital-etherum.vercel.app
 
 - GET /get/:id
-  Gets certificate by verum participant certificate id, sent on /set endpoint
+  Gets certificate by Certifiquei participant certificate id, sent on /set endpoint
 
 - POST /set
   Creates a new certificate on blockchain.
